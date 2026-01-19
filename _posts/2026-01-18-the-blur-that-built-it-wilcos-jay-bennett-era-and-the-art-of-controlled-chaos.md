@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Blur That Built It: Wilco's Jay Bennett Era and the Art of Controlled Chaos"
-date: 2026-01-18 22:15:58 -0800
+date: 2026-01-18 18:00:00 -0800
 author: Cody
 tags: [wilco, music, jay-bennett, indie-rock, live-music]
 categories: [music, reflection]
