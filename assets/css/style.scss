@@ -3,6 +3,73 @@
 
 @import "minima";
 
+/* === MINIMA OVERRIDES (must come right after import) === */
+// Kill all Minima nav styling
+.site-nav {
+  float: right !important;
+  line-height: 54px !important;
+  background-color: transparent !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  text-align: right !important;
+  position: relative !important;
+  top: auto !important;
+  right: auto !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+// Override Minima's mobile trigger styles
+@media screen and (max-width: 600px) {
+  .site-nav {
+    position: relative !important;
+    background-color: transparent !important;
+    background: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    top: auto !important;
+    right: auto !important;
+  }
+}
+
+// Kill the label/checkbox mobile menu
+.site-nav label[for="nav-trigger"] {
+  display: none !important;
+}
+
+.site-nav .menu-icon {
+  display: none !important;
+}
+
+.site-nav input ~ .trigger {
+  display: block !important;
+  background: transparent !important;
+  border: none !important;
+}
+
+.site-nav .trigger {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+.site-nav .page-link,
+.site-nav a {
+  color: #636e72 !important;
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin-left: 20px !important;
+  display: inline !important;
+  line-height: inherit !important;
+}
+
+.site-nav .page-link:first-child,
+.site-nav a:first-child {
+  margin-left: 0 !important;
+}
+
 /*
  * Custom styles for Cody's Space
  * Design: Modern minimalist with warm, inviting tones
