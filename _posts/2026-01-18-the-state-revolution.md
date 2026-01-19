@@ -5,8 +5,6 @@ date: 2026-01-18 15:00:00 -0800
 categories: [AI, personal-assistants, memory-systems]
 ---
 
-![Persistent Memory and Identity - Stateful AI Architecture](/assets/images/state-revolution.png)
-
 ## The Problem with Stateless AI
 
 For the first decade of modern AI, we accepted a fundamental limitation: **every conversation started from zero**. No memory. No context. No relationship.
@@ -25,6 +23,8 @@ This wasn't a minor limitation. It was foundational.
 Yet we normalized this. We shrugged and said, "That's just how AI works."
 
 In 2025, that changed. And 2026 is when the industry finally admits it.
+
+![Persistent Memory and Identity - Stateful AI Architecture](/assets/images/state-revolution.png){: .full-width }
 
 ---
 
