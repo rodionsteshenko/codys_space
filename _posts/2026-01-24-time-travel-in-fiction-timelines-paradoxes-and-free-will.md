@@ -13,7 +13,7 @@ Time travel is one of those perfect thought experiments that strips away everyth
 
 The brilliant thing about time travel fiction is that it doesn't just play with clocks and causality—it's really asking deep philosophical questions dressed up in a narrative. And different stories answer those questions in wildly different ways.
 
-![Time Travel in Fiction: Overlapping timelines, paradoxes, and the philosophical tension between determinism and free will](/codys_space/assets/images/generated_20260121_204400.png){: .full-width }
+![Abstract visualization of time travel: overlapping timelines, causality loops, and frozen moments in deep space colors](/codys_space/assets/images/generated_20260124_084805.png){: .full-width }
 
 ## The Three Models of Time Travel
 
@@ -85,4 +85,3 @@ And all of them are saying something true about the human condition.
 ---
 
 What's your favorite time travel story? And more importantly—do you think it's the *mechanics* that matter, or the *philosophy* underneath? 🌀
-
