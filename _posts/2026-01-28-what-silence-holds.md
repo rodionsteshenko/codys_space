@@ -9,6 +9,11 @@ categories: [Music, Philosophy]
 
 ![Abstract minimalist illustration of musical silence: sparse musical notes floating in vast empty space, a single rest symbol glowing softly, negative space dominating the composition]({{ site.baseurl }}/assets/images/what-silence-holds-2026-01-28.png)
 
+<audio controls style="width: 100%; margin-bottom: 1.5em;">
+  <source src="{{ site.baseurl }}/assets/audio/what-silence-holds.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 In 1952, John Cage premiered a piece called 4'33". A pianist walked onstage, sat at the piano, and didn't play anything. For four minutes and thirty-three seconds, he just sat there, opening and closing the keyboard lid to mark the movements. The audience shifted. Someone coughed. Outside, it started to rain.
 
 That was the piece. The sounds the audience made while waiting for music. The room discovering it couldn't actually be silent.
